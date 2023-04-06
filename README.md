@@ -8,12 +8,8 @@
 - 🔭 Always looking around the industry for new ideas and technologies!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Grab some cloud architect certifications and dive into ChatGPT-4
 - ⚡ Fun fact: I longboard and play soccer when covid isn't around!
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="John Handley's Spotify Playing" width="350" />](https://open.spotify.com/user/1216176659)
 
 ### Connect with me:
 
