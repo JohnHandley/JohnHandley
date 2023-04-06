@@ -44,17 +44,6 @@
 
 ---
 
-<summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="John Handley's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JohnHandley&show_icons=true&hide_border=true" />
-
 [website]: https://John.Handley.Dev
 [twitter]: https://twitter.com/HarborCall
 [instagram]: https://www.instagram.com/john.a.handley/
