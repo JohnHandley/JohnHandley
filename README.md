@@ -8,8 +8,8 @@
 - 🔭 Always looking around the industry for new ideas and technologies!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Grab some cloud architect certifications and dive into ChatGPT-4
-- ⚡ Fun fact: I longboard and play soccer when covid isn't around!
+- 🥅 2025 Goals: Grab some cloud architect certifications and hop back into some game-dev
+- ⚡ Fun fact: I longboard and play pickleball (when the heat isn't insane)
 
 ### Connect with me:
 
